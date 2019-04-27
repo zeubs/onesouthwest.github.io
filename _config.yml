@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: One South West LHCR
 email: info@onesouthwest.org.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the website for One South West Local Health and Care Record.
+description: Welcome to the website for One South West Local Health and Care Record.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.onesouthwest.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @One_South_West
+twitter_username: One_South_West
 #github_username:  jekyll
 
 # Build settings

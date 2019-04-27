@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website is our public facing page of the One South West Local Health and Care Record.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Over time we will add more information here as it becomes available.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can read more about Local Health and Care Records at NHS England [here](https://www.england.nhs.uk/publication/local-health-and-care-record-exemplars/).
