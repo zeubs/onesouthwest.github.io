@@ -1,32 +1,35 @@
 ---
 layout: page
-title: Supplier Engagement Days 3rd & 10th May
+title: Supplier Engagement Days
 permalink: /videos/
 exclude_from_nav: true
 
 ---
 
-Dear Colleagues, please see below links to brief introductory videos that have been prepared
-and sent by our visiting suppliers.
+Dear Colleagues, in advance of our Supplier Engagement Days on the 3rd & 10th May we asked the invited suppliers to please send us a 5 minute brief introductory video.
 
 Please try to find time to watch these before the events.
 
 ### Suppliers for 3rd May
 
 Cerner  
-[https://youtube.com/89YRuCKl6nU](https://youtu.be/89YRuCKl6nU)
+[https://youtu.be/89YRuCKl6nU](https://youtu.be/89YRuCKl6nU)
 
 NHS South, Central and West Commissioning Support Unit  
-[https://www.youtube.com/watch?v=TgyjI4dGS2w](https://www.youtube.com/watch?v=TgyjI4dGS2w)
+[https://youtu.be/TgyjI4dGS2w](https://youtu.be/TgyjI4dGS2w)
 
 PA Consulting Group  
 *awaited*
 
 Clinical Architecture  
-[https://www.youtube.com/watch?v=EUcVQjkQJVs](https://www.youtube.com/watch?v=EUcVQjkQJVs)
+[https://youtu.be/EUcVQjkQJVs](https://youtu.be/EUcVQjkQJVs)
 
 Black Pear Software Ltd  
-*awaited*
+[Presentation](/assets/BPS_eSP_1SW_LHCRE.pptx)  
+[https://youtu.be/DZNIRdel7BY](https://youtu.be/DZNIRdel7BY) Introduction to the Shared Palliative Care Summary North Tyneside EPaCCS Pilot  
+[https://youtu.be/efB3kcR074A](https://youtu.be/efB3kcR074A) SIDeR Intro & EPaCCs  
+[https://youtu.be/WXBgFvM4yYA](https://youtu.be/WXBgFvM4yYA) SIDeR Intro & ShCR 2  
+
 
 All Scripts  
 [https://allscripts-2.wistia.com/medias/k6qfk5dfni](https://allscripts-2.wistia.com/medias/k6qfk5dfni)
@@ -41,7 +44,7 @@ Orion Health
 ### Suppliers 10th May
 
 Arden & GEM CSU  
-[https://youtu.be/6A30cJ_uYg0](https://youtu.be/6A30cJ_uYg0) - need to login
+[Presentation](/assets/Ardens_One_South_West.pptx) (Details of how to access video in the presentation)
 
 Kainos  
 [https://youtu.be/zMkMWBoYbmg](https://youtu.be/zMkMWBoYbmg)
@@ -59,10 +62,10 @@ Quantum Analytica
 *awaited*
 
 AIMES  
-[https://www.dropbox.com/s/kz1tbq4lq11faii/OSW%20-%20AIMES%3ARestart%20.mp4?dl=0](https://www.dropbox.com/s/kz1tbq4lq11faii/OSW%20-%20AIMES%3ARestart%20.mp4?dl=0)
+[https://youtu.be/faqf6XemhRw](https://youtu.be/faqf6XemhRw)
 
 InterSystems  
 [https://youtu.be/imnIm7N2ims](https://youtu.be/imnIm7N2ims)
 
-Many thanks for your time and we will see you soon.    
+Many thanks for your time and we hope you enjoy the days, see you soon.    
     *One South West LHCR Team*
