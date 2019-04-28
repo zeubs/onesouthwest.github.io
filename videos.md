@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Videos
+layout: page
+title: Supplier Engagement Days 3rd & 10th May
+permalink: /videos/
 exclude_from_nav: true
 
 ---
-## Supplier Engagement Days 3rd and 10th May
 
 Dear Colleagues, please see below links to brief introductory videos that have been prepared
 and sent by our visiting suppliers.
