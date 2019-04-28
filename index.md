@@ -3,12 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to the One South West LHCR website.  
+title: Welcome to the One South West LHCR website.
 ---
-
-
-
-### *This site is under development at the moment*
+### *This site is under development.*
 
 ![logo](assets/logo.png)
 
