@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: One South West LHCR
+title: One South West Local Health and Care Record
 email: info@onesouthwest.org.uk
-description: Welcome to the website for One South West Local Health and Care Record.
+description: Welcome to our website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.onesouthwest.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: One_South_West
