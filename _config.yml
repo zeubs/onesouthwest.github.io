@@ -23,7 +23,7 @@ twitter_username: One_South_West
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
