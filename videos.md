@@ -20,8 +20,6 @@ Please try to find time to watch these before the events.
 **NHS South, Central and West Commissioning Support Unit**  
 [https://youtu.be/TgyjI4dGS2w](https://youtu.be/TgyjI4dGS2w)
 
-**PA Consulting Group**  
-*awaited*
 
 **Clinical Architecture**  
 [https://youtu.be/EUcVQjkQJVs](https://youtu.be/EUcVQjkQJVs)
